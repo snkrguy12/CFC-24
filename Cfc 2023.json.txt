@@ -4,7 +4,7 @@
       "confTeams": [
         {
           "abbreviation": "BAMA",
-          "prestige": "90",
+          "prestige": "86",
           "hexColor": "#9E1B32",
           "offCoordinator": {
             "contractLength": "3",
@@ -55,7 +55,7 @@
         },
         {
           "abbreviation": "UF",
-          "prestige": "80",
+          "prestige": "81",
           "hexColor": "#0021A5",
           "offCoordinator": {
             "contractLength": "3",
@@ -106,7 +106,7 @@
         },
         {
           "abbreviation": "UGA",
-          "prestige": "95",
+          "prestige": "94",
           "hexColor": "#BA0C2F",
           "offCoordinator": {
             "contractLength": "3",
@@ -157,7 +157,7 @@
         },
         {
           "abbreviation": "TENN",
-          "prestige": "94",
+          "prestige": "83",
           "hexColor": "#FF8200",
           "offCoordinator": {
             "contractLength": "3",
@@ -259,7 +259,7 @@
         },
         {
           "abbreviation": "LSU",
-          "prestige": "82",
+          "prestige": "84",
           "hexColor": "#461D7C",
           "offCoordinator": {
             "contractLength": "3",
@@ -361,7 +361,7 @@
         },
         {
           "abbreviation": "UK",
-          "prestige": "78",
+          "prestige": "80",
           "hexColor": "#0033A0",
           "offCoordinator": {
             "contractLength": "3",
@@ -463,7 +463,7 @@
         },
         {
           "abbreviation": "VAND",
-          "prestige": "45",
+          "prestige": "51",
           "hexColor": "#866D4B",
           "offCoordinator": {
             "contractLength": "3",
@@ -514,14 +514,14 @@
         }
       ],
       "confFullName": "SEC",
-      "confPrestige": "92",
+      "confPrestige": "89",
       "confName": "SEC"
     },
     {
       "confTeams": [
         {
           "abbreviation": "MICH",
-          "prestige": "91",
+          "prestige": "92",
           "hexColor": "#00274C",
           "offCoordinator": {
             "contractLength": "3",
@@ -572,7 +572,7 @@
         },
         {
           "abbreviation": "OSU",
-          "prestige": "89",
+          "prestige": "92",
           "hexColor": "#BB0000",
           "offCoordinator": {
             "contractLength": "3",
@@ -623,7 +623,7 @@
         },
         {
           "abbreviation": "MSU",
-          "prestige": "67",
+          "prestige": "62",
           "hexColor": "#18453B",
           "offCoordinator": {
             "contractLength": "3",
@@ -674,7 +674,7 @@
         },
         {
           "abbreviation": "WISC",
-          "prestige": "72",
+          "prestige": "76",
           "hexColor": "#C5050C",
           "offCoordinator": {
             "contractLength": "3",
@@ -776,7 +776,7 @@
         },
         {
           "abbreviation": "IOWA",
-          "prestige": "65",
+          "prestige": "75",
           "hexColor": "#FFCD00",
           "offCoordinator": {
             "contractLength": "3",
@@ -929,7 +929,7 @@
         },
         {
           "abbreviation": "PSU",
-          "prestige": "84",
+          "prestige": "90",
           "hexColor": "#00008B",
           "offCoordinator": {
             "contractLength": "3",
@@ -980,7 +980,7 @@
         },
         {
           "abbreviation": "ILL",
-          "prestige": "77",
+          "prestige": "65",
           "hexColor": "#E84A27",
           "offCoordinator": {
             "contractLength": "3",
@@ -1031,14 +1031,14 @@
         }
       ],
       "confFullName": "Big 10",
-      "confPrestige": "84",
+      "confPrestige": "90",
       "confName": "B1G"
     },
     {
       "confTeams": [
         {
           "abbreviation": "OU",
-          "prestige": "76",
+          "prestige": "85",
           "hexColor": "#841617",
           "offCoordinator": {
             "contractLength": "3",
@@ -1089,7 +1089,7 @@
         },
         {
           "abbreviation": "OKST",
-          "prestige": "84",
+          "prestige": "70",
           "hexColor": "#FF7300",
           "offCoordinator": {
             "contractLength": "3",
@@ -1140,7 +1140,7 @@
         },
         {
           "abbreviation": "KSU",
-          "prestige": "79",
+          "prestige": "75",
           "hexColor": "#512888",
           "offCoordinator": {
             "contractLength": "3",
@@ -1242,7 +1242,7 @@
         },
         {
           "abbreviation": "MIZZ",
-          "prestige": "54",
+          "prestige": "76",
           "hexColor": "#F1B82D",
           "offCoordinator": {
             "contractLength": "3",
@@ -1293,7 +1293,7 @@
         },
         {
           "abbreviation": "CU",
-          "prestige": "46",
+          "prestige": "79",
           "hexColor": "#CFB87C",
           "offCoordinator": {
             "contractLength": "3",
@@ -1335,8 +1335,8 @@
             "ratPot": "97",
             "hometown": "Hillcrest",
             "ratTalent": "49",
-            "baselinePrestige": "70",
-            "name": "Karl Dorrell",
+            "baselinePrestige": "90",
+            "name": "deion sanders",
             "contractYear": "0"
           },
           "name": "Colorado Buffaloes",
